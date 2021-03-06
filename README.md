@@ -1,4 +1,4 @@
-egit# Example Repository
-This is a sample repo
+# Example Repository
+This is a sample repo!
 
-This is a sencond change
+This is a sencond change!
